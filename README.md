@@ -39,9 +39,7 @@ cargo run --release --bin Hotori-game-server
 
 #### b) using pre-built binaries
 
-Navigate to the [Releases](https://git.xeondev.com/Hotori
--rs/Hotori
--rs/releases) page and download the latest release for your platform.<br>
+Navigate to the [Releases] page and download the latest release for your platform.<br>
 Launch all services: `Hotori
 -sdk-server`, `Hotori
 -dispatch-server`, `Hotori
